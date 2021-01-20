@@ -1060,7 +1060,7 @@
     <value>Hierheen verplaatsen</value>
   </data>
   <data name="DrivesWidgetDescription.Text" xml:space="preserve">
-    <value>Ritten</value>
+    <value>Schijfen</value>
   </data>
   <data name="SettingsWidgetsTitle.Text" xml:space="preserve">
     <value>Widgets</value>
